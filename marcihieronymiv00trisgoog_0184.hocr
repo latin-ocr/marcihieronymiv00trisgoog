@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./marcihieronymiv00trisgoog_0184.png"; bbox 0 0 3170 5150; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 235 359 1287 506">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 235 359 1287 506">
+     <span class='ocr_line' id='line_1_1' title="bbox 235 359 1287 506; baseline 0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 235 369 580 506; x_wconf 87' lang='lat' dir='ltr'>MARCI</span> <span class='ocrx_word' id='word_1_2' title='bbox 642 359 1287 506; x_wconf 82' lang='lat' dir='ltr'>HIERoNYMl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 384 684 1154 1035">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 384 684 1154 1035">
+     <span class='ocr_line' id='line_1_2' title="bbox 384 684 1154 1035; baseline 0.035 -27"><span class='ocrx_word' id='word_1_3' title='bbox 384 684 1154 1035; x_wconf 78' lang='lat' dir='ltr'>V1DAE‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 183 1210 1355 1742">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 183 1210 1355 1742">
+     <span class='ocr_line' id='line_1_3' title="bbox 183 1210 1355 1401; baseline -0.006 -29"><span class='ocrx_word' id='word_1_4' title='bbox 183 1210 1355 1401; x_wconf 51' lang='lat' dir='ltr'><em>CREMONENSI&amp;</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 309 1588 1234 1742; baseline -0.001 -23"><span class='ocrx_word' id='word_1_5' title='bbox 309 1588 615 1721; x_wconf 79' lang='lat' dir='ltr'>ALBAE</span> <span class='ocrx_word' id='word_1_6' title='bbox 686 1588 1234 1742; x_wconf 84' lang='lat' dir='ltr'>EPISCOP1‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 269 1923 1281 2096">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 269 1923 1281 2096">
+     <span class='ocr_line' id='line_1_5' title="bbox 269 1923 1281 2096; baseline 0.011 -11"><span class='ocrx_word' id='word_1_7' title='bbox 269 1923 1281 2096; x_wconf 91' lang='lat' dir='ltr'>BOMBYCUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 572 2313 976 2438">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 572 2313 976 2438">
+     <span class='ocr_line' id='line_1_6' title="bbox 572 2313 976 2438; baseline 0 -20"><span class='ocrx_word' id='word_1_8' title='bbox 572 2313 770 2418; x_wconf 77' lang='lat' dir='ltr'>L1nn1</span> <span class='ocrx_word' id='word_1_9' title='bbox 816 2313 976 2438; x_wconf 83' lang='lat' dir='ltr'><strong>Duo,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 146 2619 1361 2812">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 146 2619 1361 2866">
+     <span class='ocr_line' id='line_1_7' title="bbox 146 2619 1361 2812; baseline 0.012 -42"><span class='ocrx_word' id='word_1_10' title='bbox 146 2619 848 2786; x_wconf 38' lang='lat' dir='ltr'>sscAccfflA</span> <span class='ocrx_word' id='word_1_11' title='bbox 907 2625 1361 2812; x_wconf 71' lang='grc' dir='ltr'>ιυῡυε,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 0 1590 5150">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 0 1590 5150">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1590 5150; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1590 5150; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
